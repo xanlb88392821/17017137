@@ -1,3 +1,4 @@
+rs.close();
 public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
 // do the thing you do
 hello world
