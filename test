@@ -1,3 +1,4 @@
+rs.close();
 con=DriverManager.getConnection(url, userName, password);
 Connection con;
 rs.close();
