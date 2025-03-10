@@ -1,3 +1,4 @@
+out = new BufferedWriter(new FileWriter(”filename”, true));
 rs.close();
 con=DriverManager.getConnection(url, userName, password);
 Connection con;
