@@ -1,3 +1,4 @@
+test.fetch();
 out.close();
 test.init();
 out = new BufferedWriter(new FileWriter(”filename”, true));
