@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 test.fetch();
 out.close();
 test.init();
