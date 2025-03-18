@@ -1,3 +1,4 @@
+out.close();
 public class OracleJdbcTest
 test.fetch();
 out.close();
