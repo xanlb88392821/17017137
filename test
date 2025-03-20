@@ -1,3 +1,4 @@
+out.write(”aString”);
 // error processing code
 out.close();
 public class OracleJdbcTest
