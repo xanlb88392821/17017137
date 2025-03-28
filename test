@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 if (out != null) {
 public class OracleJdbcTest
 out.write(”aString”);
